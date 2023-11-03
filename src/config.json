@@ -128,11 +128,11 @@
         }
       ]
     },
-    {
-      "menuLabel": "journal",
-      "menuLink": "/blog",
-      "category": null
-    },
+   # {
+   #   "menuLabel": "journal",
+   #   "menuLink": "/blog",
+   #   "category": null
+   # },
     {
       "menuLabel": "About",
       "menuLink": "/about",
