@@ -34,10 +34,10 @@
           "text": "Journal",
           "link": "/blog"
         },
-        {
-          "text": "Privacy Policy",
-          "link": "/support#policy"
-        }
+       # {
+       #   "text": "Privacy Policy",
+       #   "link": "/support#policy"
+       # }
       ]
     },
     {
@@ -55,10 +55,10 @@
           "text": "Shipping & Returns",
           "link": "/support#returns"
         },
-        {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
-        }
+       # {
+       #   "text": "How to use this theme",
+       #   "link": "/how-to-use"
+       # }
       ]
     }
   ],
