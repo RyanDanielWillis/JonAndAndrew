@@ -8,8 +8,8 @@
   ],
   "languageList": [
     { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
+    #{ "value": "german", "label": "Deutsch" },
+    #{ "value": "mandarin", "label": "普通话" }
   ],
   "social": {
     "facebook": "https://www.facebook.com/MatterDesign/",
